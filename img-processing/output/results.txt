@@ -1,0 +1,40 @@
+Calculated granularity for 10h_milling1000C_2h.jpg is: 0.43704832221970163
+
+Calculated granularity for 10h_milling1200C_2h.jpg is: 0.611376085839546
+
+Calculated granularity for 10h_milling900C_2h.jpg is: 0.9610583842790611
+
+Calculated granularity for 10h_milling_1100C_2h.jpg is: 0.6135275182296227
+
+Calculated granularity for 14h_milling1100C_2h.jpg is: 0.6970732465897045
+
+Calculated granularity for 14h_milling1200C_2h.jpg is: 0.5624089747463882
+
+Calculated granularity for 14h_milling900C_2h.jpg is: 0.48263726228736736
+
+Calculated granularity for 14h_milling_1000C_2h.jpg is: 0.530479028803213
+
+Calculated granularity for 18h_milling1000C_2h.jpg is: 0.3764902747322224
+
+Calculated granularity for 18h_milling1100C_2h.jpg is: 1.1566553343585115
+
+Calculated granularity for 18h_milling1200C_2h.jpg is: 1.0898295884476414
+
+Calculated granularity for 18h_milling900C_2h.jpg is: 0.5402634595214908
+
+Calculated granularity for 2hMilling900C_2h.jpg is: 0.40706264874095244
+
+Calculated granularity for 2h_milling1100C_2h.jpg is: 0.6988006304891811
+
+Calculated granularity for 2h_milling1200C_2h.jpg is: 1.5370832768591296
+
+Calculated granularity for 2h_milling_1000C_2h(1).jpg is: 2.1945614596087304
+
+Calculated granularity for 6h-milling900C_2h.jpg is: 9.9399306950412
+
+Calculated granularity for 6h_milling1000C_2h.jpg is: 0.47405844044661594
+
+Calculated granularity for 6h_milling1100C_2h.jpg is: 0.9022541216309294
+
+Calculated granularity for 6h_milling1200C_2h.jpg is: 0.9775903949392992
+
